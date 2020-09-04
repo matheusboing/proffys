@@ -3,12 +3,8 @@
 </h1>
   <p align="center">:books: Proffy :heavy_check_mark: Concluído</p>
   <p align="center">
-     <a href="#objetivo">Sobre</a> •
-     <a href="#roadmap">Roadmap</a> • 
-     <a href="#tecnologias">Tecnologias</a> • 
-     <a href="#contribuicao">Contribuição</a> • 
-     <a href="#licenc-a">Licença</a> • 
-     <a href="#autor">Autor</a>
+     <a href="#objetivo">Sobre</a>
+     <a href="#funcionalidades">Funcionalidades</a>
 </p>
   <h1>:pencil2: Sobre o projeto</h1>
   <p> Proffy - Uma plataforma feita para gerir cursos! Além de lhe proporcionar os professores disponíveis do curso desejado, poderás também 
