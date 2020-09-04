@@ -3,8 +3,8 @@
 </h1>
   <p align="center">:books: Proffy :heavy_check_mark: Concluído</p>
   <p align="center">
-     <a href="#objetivo">Sobre</a>
-     <a href="#funcionalidades">Funcionalidades</a>
+     <a href="#objetivo">Sobre</a> •
+     <a href="#funcionalidades">Funcionalidades</a> 
 </p>
   <h1>:pencil2: Sobre o projeto</h1>
   <p> Proffy - Uma plataforma feita para gerir cursos! Além de lhe proporcionar os professores disponíveis do curso desejado, poderás também 
@@ -19,14 +19,8 @@
         <li>Biografia;</li>
         <li>Matéria de sua especialidade e custo;</li>
         <li>Horários disponíveis.</li>
-      </ul></p>
-
-    
-    
-    
-    
-      
-    
+      </ul>
+  </p>  
   <p> O aluno poderá escolher para fazer o curso: 
        <ul>
         <li>Matéria desejada;</li>
